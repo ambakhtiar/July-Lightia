@@ -13,11 +13,8 @@ It can perform tasks like opening applications, searching the web, fetching Wiki
 - 📅 **Time & Date** announcements
 - 📖 **Wikipedia search** with spoken summaries
 - 🌐 **Open websites** (Google, YouTube, Facebook, LinkedIn)
-- 🎶 **Play random music** from a specified folder
-- 🖥️ **Open system applications** (Calculator, Notepad, CMD)
+- 🖥️ **Open system applications** (Calculator, Notepad)
 - 📸 **Take screenshots** and save them automatically
-- 📆 **Open Google Calendar** via browser
-- 😂 **Tell jokes** and respond to small talk
 - 🤖 **Gemini AI integration** for conversational responses
 - 📝 **Logging system** to track user commands and assistant actions
 - 👋 **Exit gracefully** with a voice command
@@ -69,7 +66,7 @@ It can perform tasks like opening applications, searching the web, fetching Wiki
 ```
 July-Voice-Assistant-System/
 │
-├── July.py              # Main script
+├── July.py                # Main script
 ├── requirements.txt       # Dependencies
 ├── logs/                  # Log files (application.log)
 ├── Screenshot/            # Saved screenshots
