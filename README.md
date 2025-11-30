@@ -1,7 +1,7 @@
-# 🎙️ 36_July Voice Assistant System
+# 🎙️ July Voice Assistant System
 
-36_July is a Python-based voice assistant that interacts with users through speech recognition and text-to-speech.  
-It can perform tasks like opening applications, searching the web, fetching Wikipedia summaries, playing music, telling jokes, and even chatting with you — inspired by Tony Stark's 36_July.
+July is a Python-based voice assistant that interacts with users through speech recognition and text-to-speech.  
+It can perform tasks like opening applications, searching the web, fetching Wikipedia summaries, playing music, telling jokes, and even chatting with you — inspired by Tony Stark's July.
 
 ---
 
@@ -35,12 +35,12 @@ It can perform tasks like opening applications, searching the web, fetching Wiki
 
 1. **Create a virtual environment:**
    ```bash
-   conda create -n 36_July python=3.11 -y
+   conda create -n July python=3.11 -y
    ```
 
 2. **Activate the environment:**
    ```bash
-   conda activate 36_July
+   conda activate July
    ```
 
 3. **Install dependencies:**
@@ -59,7 +59,7 @@ It can perform tasks like opening applications, searching the web, fetching Wiki
    ```
 3. Run the assistant:
    ```bash
-   python 36_July.py
+   python July.py
    ```
 
 ---
@@ -67,9 +67,9 @@ It can perform tasks like opening applications, searching the web, fetching Wiki
 ## 📂 Project Structure
 
 ```
-36_July-Voice-Assistant-System/
+July-Voice-Assistant-System/
 │
-├── 36_July.py              # Main script
+├── July.py              # Main script
 ├── requirements.txt       # Dependencies
 ├── logs/                  # Log files (application.log)
 ├── Screenshot/            # Saved screenshots
